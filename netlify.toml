@@ -1,3 +1,4 @@
 [build]
   base = "."
   functions = "./functions"
+  command = "cd ./functions/ && npm install"
